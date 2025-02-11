@@ -21,10 +21,9 @@ reddit = praw.Reddit(
 
 def scrape_reddit(subreddit_name, query, num_posts=100):
     subreddit = reddit.subreddit(subreddit_name)
-
     posts = []
 
-    for post in subreddit.search(query, limit=num_posts):
+    for post in subreddit.hot(limit=num_posts):
         posts.append([
             post.created_utc,
             post.title,
