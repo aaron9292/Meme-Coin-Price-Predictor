@@ -1,0 +1,4 @@
+coin,symbol,reddit_mentions,google_mentions,price,scraped_at,avg_sentiment,num_positive,num_negative,num_neutral
+Babylon,BABY,15,0,0.14757347414912733,2025-04-12,0.14095333333333335,5,2,8
+Fartcoin,FARTCOIN,15,0,0.8822839120594694,2025-04-12,0.011466666666666668,4,3,8
+Popcat,POPCAT,15,0,0.2314453795059144,2025-04-12,-0.10250666666666666,1,4,10

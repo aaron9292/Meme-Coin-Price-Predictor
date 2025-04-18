@@ -1,0 +1,6 @@
+[theme]
+base="dark"
+primaryColor="#F0B90B"  # Binance yellow
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#1a1c20"
+textColor="#ffffff"

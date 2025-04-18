@@ -1,0 +1,16 @@
+id,coin,symbol,reddit_mentions,google_mentions,avg_sentiment,num_positive,num_negative,num_neutral,volatility,predicted_change_pct,prediction
+mantra-dao,MANTRA,OM,15,10,-0.08917200000000002,7,12,6,0,32.19,BUY
+connect-token-wct,WalletConnect Token,WCT,10,10,0.359245,13,2,5,0,22.71,BUY
+bittensor,Bittensor,TAO,11,10,0.28369047619047616,9,1,11,0,39.13,BUY
+pi-network,Pi Network,PI,10,10,0.05865,8,4,8,0,41.14,BUY
+fartcoin,Fartcoin,FARTCOIN,15,9,0.07333333333333333,8,6,10,0,54.73,BUY
+solana,Solana,SOL,15,10,0.161964,11,5,9,0,56.85,BUY
+nusd,sUSD,SUSD,10,10,0.12084500000000001,10,2,8,0,40.53,BUY
+ethereum,Ethereum,ETH,15,10,0.203172,12,3,10,0,56.38,BUY
+official-trump,Official Trump,TRUMP,10,10,0.12913000000000002,10,4,6,0,23.42,BUY
+near,NEAR Protocol,NEAR,10,10,0.17272,9,4,7,0,40.84,BUY
+sonic-3,Sonic (prev. FTM),S,0,10,0.22147,4,1,5,0,23.16,BUY
+layerzero,LayerZero,ZRO,15,10,0.282912,10,0,15,0,54.13,BUY
+peanut-the-squirrel,Peanut the Squirrel,PNUT,5,10,0.2664066666666666,7,1,7,0,40.53,BUY
+berachain-bera,Berachain,BERA,11,10,0.15176190476190476,7,2,12,0,39.13,BUY
+render-token,Render,RENDER,15,10,0.225504,11,2,12,0,54.13,BUY
