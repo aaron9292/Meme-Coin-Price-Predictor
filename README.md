@@ -2,7 +2,7 @@
 
 **Live Prediction Dashboard for Trending Memecoins using Real-Time Sentiment and Price Data**
 ## Live Demo  
-Check it out here: [https://meme-coin-price-predictor.streamlit.app/](https://meme-coin-price-predictor.streamlit.app/)
+[https://meme-coin-price-predictor.streamlit.app/](https://meme-coin-price-predictor.streamlit.app/)
 ---
 
 ## Overview
