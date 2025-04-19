@@ -1,7 +1,8 @@
 # Meme-Coin Price Predictor
 
 **Live Prediction Dashboard for Trending Memecoins using Real-Time Sentiment and Price Data**
-
+## 📈 Live Demo  
+🎯 Check it out here: [https://meme-coin-price-predictor.streamlit.app/](https://meme-coin-price-predictor.streamlit.app/)
 ---
 
 ## Overview
@@ -15,6 +16,14 @@ This project is a full-stack AI-powered application that predicts the short-term
 It features a sleek **Streamlit UI** for displaying top memecoins, predictions, confidence scores, and underlying sentiment.
 
 ---
+
+## 🧠 Tech Stack
+
+- **Frontend**: Streamlit
+- **NLP**: VADER SentimentIntensityAnalyzer
+- **Data Sources**: Reddit (PRAW), Twitter API, DuckDuckGo scraping
+- **Model**: Custom ML model trained on historical sentiment + price data
+- **Deployment**: Streamlit Cloud
 
 ## Live Features
 - Trending Coin Detection – via CoinGecko's trending API
@@ -73,25 +82,6 @@ Run the app:
 ```bash
 streamlit run app.py
 ```
-
----
-
-## Deployment Guide
-
-### VPS + Custom Domain (Nginx)
-1. Provision a VPS (e.g. DigitalOcean)
-2. Set up Python + virtualenv
-3. Clone repo + install dependencies
-4. Run Streamlit with `tmux` or `nohup`
-5. Configure Nginx to reverse proxy port 8501
-6. (Optional) Use Certbot for HTTPS
-
-### Docker (Optional)
-```bash
-docker build -t memecoin-app .
-docker run -p 8501:8501 memecoin-app
-```
-
 ---
 
 ## Example Output
