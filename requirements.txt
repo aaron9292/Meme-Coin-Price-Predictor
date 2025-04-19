@@ -8,3 +8,5 @@ joblib
 praw
 duckduckgo_search
 python-dotenv
+beautifulsoup4
+requests
