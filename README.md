@@ -1,8 +1,8 @@
 # Meme-Coin Price Predictor
 
 **Live Prediction Dashboard for Trending Memecoins using Real-Time Sentiment and Price Data**
-## 📈 Live Demo  
-🎯 Check it out here: [https://meme-coin-price-predictor.streamlit.app/](https://meme-coin-price-predictor.streamlit.app/)
+## Live Demo  
+Check it out here: [https://meme-coin-price-predictor.streamlit.app/](https://meme-coin-price-predictor.streamlit.app/)
 ---
 
 ## Overview
@@ -17,7 +17,7 @@ It features a sleek **Streamlit UI** for displaying top memecoins, predictions, 
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **NLP**: VADER SentimentIntensityAnalyzer
